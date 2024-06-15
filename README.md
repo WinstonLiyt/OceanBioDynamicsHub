@@ -95,6 +95,3 @@ Welcome to make contributions to enhance the platform. Please fork the repositor
 
 ## 📝 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## 🙏 Acknowledgments
-Special thanks to the team members and contributors who made this project possible. Your hard work and dedication are greatly appreciated!
