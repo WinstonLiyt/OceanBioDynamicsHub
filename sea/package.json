@@ -1,0 +1,29 @@
+{
+  "name": "sea",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.7.2",
+    "compressorjs": "^1.2.1",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.7.2",
+    "quill-blot-formatter": "^1.0.5",
+    "quill-image-drop-module": "^1.0.3",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
